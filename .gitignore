@@ -1,2 +1,3 @@
-*.class
-*.log
+practice/fp-scala/.idea/*
+practice/fp-scala/project/
+practice/fp-scala/target/
