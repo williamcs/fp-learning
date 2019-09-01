@@ -1,4 +1,4 @@
-package rank.practice
+package rank.practice.introduction
 
 /**
   * A "Hello World" program has been widely adopted as the introductory program for learning how to code.
