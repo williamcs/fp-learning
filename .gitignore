@@ -3,4 +3,5 @@ practice/fp-scala/project/
 practice/fp-scala/target/
 practice/fp-closure/.idea/*
 practice/fp-closure/.vscode/*
+*.DS_Store
 
